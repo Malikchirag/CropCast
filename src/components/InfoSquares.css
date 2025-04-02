@@ -1,0 +1,60 @@
+#is-div{
+    border-radius: 20px;
+    height: 100px;
+    width: 320px;
+    color: white;
+    display: flex;
+    backdrop-filter: blur(8px);
+    -webkit-backdrop-filter: blur(3px);
+    margin: 0 7px 0 0;
+    transition: transform 0.3s ease;
+    background-color: rgba(255, 255, 255, 0.2);
+    box-shadow: 0px 0px 10px 0px rgba(255, 255, 255, 0.05); 
+    /* background-color: rgba(255, 255, 255, 0.2);
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
+    border-radius: 15px;
+    border: 1px solid rgba(255, 255, 255, 0.3);
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); */
+}
+
+#is-div:hover{
+    transform: scale(1.015);
+}
+
+#is-fl{
+    /* display:flex;
+    align-items: center; */
+    height: 100px;
+    width: 50px;
+}
+
+#is-2{
+    height: 100px;
+    width: 270px;
+}
+
+.info-square-img{
+    margin: 14px 0 0 13px;
+    padding: 0 0 0 0;
+}
+
+#is-title{
+    margin: 15px 0 0 15px;
+    font-size: 1.2rem;
+    font-weight: 600;
+    /* text-shadow:
+        -0.5px -0.5px 0 #000,
+        0.5px -0.5px 0 #000,
+        -0.5px 0.5px 0 #000,
+        0.5px 0.5px 0 #000; */
+}
+
+#is-description{
+    margin: 8px 0 0 15px;
+        /* text-shadow:
+            -0.5px -0.5px 0 #000,
+            0.5px -0.5px 0 #000,
+            -0.5px 0.5px 0 #000,
+            0.5px 0.5px 0 #000; */
+}

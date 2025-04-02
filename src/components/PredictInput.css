@@ -1,0 +1,151 @@
+#predictinput-div {
+    background-color: rgb(0, 0, 0);
+    width: 1522px;
+    height: 650px;
+    margin: 40px 0 0 0;
+    display: grid;
+    justify-items: center;
+    color: white;
+}
+
+.predict-title {
+    font-size: 3em;
+    font-weight: 600;
+    margin: 40px 0 0 0;
+}
+
+/* Container for the input fields */
+.predict-input-container {
+    width: 100%;
+    max-width: 500px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #f4f4f4;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+/* Label styles */
+.predict-label {
+    font-size: 16px;
+    font-weight: bold;
+    color: #ffffff;
+    margin-bottom: 8px;
+}
+
+/* Dropdown (select) styles */
+select {
+    width: 500px;
+    padding: 10px;
+    margin-bottom: 20px;
+    font-size: 16px;
+    border: 1px solid #121212;
+    border-radius: 5px;
+    background-color: #121212;
+    color: #ffffff;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    cursor: pointer;
+    transition: border-color 0.3s ease, box-shadow 0.3s ease;
+}
+
+/* Dropdown hover/focus styles */
+select:hover, select:focus {
+    border-color: #007bff;
+    box-shadow: 0 0 5px rgba(0, 123, 255, 0.5);
+}
+
+/* Option styles */
+option {
+    padding: 10px;
+    background-color: #ffffff;
+    color: #333;
+    font-size: 16px;
+}
+
+/* Disable styles for dropdowns */
+select[disabled] {
+    background-color: #e9ecef;
+    color: #6c757d;
+    cursor: not-allowed;
+}
+
+/* Hover effect for the container */
+.predict-input-container:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.filled-select {
+    border-width: 3px;
+    border-color: #0048ff; /* Green color */
+}
+
+.calendar {
+    width: 480px;
+    padding: 10px;
+    margin-bottom: 20px;
+    font-size: 16px;
+    border: 1px solid #121212;
+    border-radius: 5px;
+    background-color: #121212;
+    color: #ffffff;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    cursor: pointer;
+    transition: border-color 0.3s ease, box-shadow 0.3s ease;
+}
+
+/* Custom styles for the calendar popup */
+.react-datepicker {
+    font-size: 14px;
+    width: 600px;
+}
+
+.react-datepicker__header {
+    background-color: #0056b3;
+    color: white;
+}
+
+.react-datepicker__day--selected,
+.react-datepicker__day--in-selecting-range,
+.react-datepicker__day--in-range {
+    background-color: #009037;
+    color: white;
+}
+
+.react-datepicker__day--keyboard-selected {
+    background-color: #0056b3;
+    color: rgb(255, 255, 255);
+}
+
+#input-section{
+    margin: 0 0 0 0;
+    padding: 0;
+}
+
+/* Button styles */
+.predict-button {
+    width: 500px;
+    padding: 10px;
+    font-size: 16px;
+    font-weight: bold;
+    color: #000000;
+    background-color: #cecece;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease, box-shadow 0.3s ease;
+    margin-top: 30px;
+}
+
+.predict-button:hover {
+    background-color: #000000;
+    box-shadow: 0 0 5px rgba(0, 123, 255, 0.5);
+    color: #ffffff;
+}

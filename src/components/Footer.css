@@ -1,0 +1,34 @@
+#footer-div{
+/*     height: 200px;
+    width: 1522px; */
+    /* background-color: rgb(255, 0, 0); */
+    display: flex;
+    justify-content:space-around;
+}
+
+.hr{
+    opacity: 0.1;
+    margin: 0;
+}
+
+.footer-tags{
+    margin: 10px 0 0px 0;
+    color: white;
+    opacity: 0.5;
+    font-size: 0.8em;
+}
+    
+#footer-div-2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#footer-cropcast{
+    margin: 20px 0 20px 0;
+}
+
+.footer-tags:hover{
+    text-decoration: underline;
+    cursor: pointer;
+}

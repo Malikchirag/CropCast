@@ -1,0 +1,56 @@
+#au-parent-div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 40px 0 40px 0;
+}
+
+#au-div{
+    display: flex;
+    height: 720px;
+    width: 1300px;
+}
+
+#au-left-div{
+    height: 720px;
+    width: 650px;
+    background-color: blue;
+    border-radius: 20px;
+}
+
+#au-right-div{
+    height: 720px;
+    width: 650px;
+    /* background-color: green; */
+    border-radius: 20px;
+    color: white;
+}
+
+#au-img{
+    width: 650px;
+    height: auto;
+    object-fit: contain;
+    margin: 0 0 0 0;
+    border-radius: 20px;
+}
+
+#au-title{
+    font-size: 3em;
+    font-weight: 600;
+    margin:  65px 0 0 60px;
+}
+
+#au-description{
+    font-size: 1em;
+    margin:  20px 0 0 60px;
+    line-height: 23px;
+}
+
+#au-description-ul{
+    margin:  20px 0 0 33px;
+    margin-bottom: 20px;
+}
+
+li{
+    margin-bottom: 13px;
+}

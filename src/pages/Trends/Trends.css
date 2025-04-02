@@ -1,0 +1,13 @@
+#trend-title{
+    font-size: 3em;
+    font-weight: 600;
+    margin: 0 0 0 0;
+    color: white;
+}
+
+#trend-ppppp-div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 10% 0 0 0;
+}

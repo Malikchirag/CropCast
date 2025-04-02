@@ -1,0 +1,299 @@
+[
+  {
+    "State": "Andhra Pradesh",
+    "Centre": "Chittoor",
+    "Commodity": "Rice",
+    "Unit": "Kg.",
+    "Year": 2024,
+    "Month": 9,
+    "Week": 36
+  },
+  {
+    "State": "Karnataka",
+    "Centre": "Bangalore",
+    "Commodity": "Onion",
+    "Unit": "Kg.",
+    "Year": 2024,
+    "Month": 9,
+    "Week": 36
+  },
+  {
+    "State": "Karnataka",
+    "Centre": "Bangalore",
+    "Commodity": "Onion",
+    "Unit": "Kg.",
+    "Year": 2024,
+    "Month": 9,
+    "Week": 36
+  },
+  {
+    "State": "Maharashtra",
+    "Centre": "Aurangabad",
+    "Commodity": "Gram",
+    "Unit": "Kg.",
+    "Year": 2024,
+    "Month": 9,
+    "Week": 37
+  },
+  {
+    "State": "Manipur",
+    "Centre": "Imphal",
+    "Commodity": "Onion",
+    "Unit": "Kg.",
+    "Year": 2024,
+    "Month": 9,
+    "Week": 38
+  },
+  {
+    "State": "Manipur",
+    "Centre": "Imphal",
+    "Commodity": "Onion",
+    "Unit": "Kg.",
+    "Year": 2024,
+    "Month": 9,
+    "Week": 38
+  },
+  {
+    "State": "Manipur",
+    "Centre": "Imphal",
+    "Commodity": "Onion",
+    "Unit": "Kg.",
+    "Year": 2024,
+    "Month": 9,
+    "Week": 36
+  },
+  {
+    "State": "Manipur",
+    "Centre": "Imphal",
+    "Commodity": "Onion",
+    "Unit": "Kg.",
+    "Year": 2024,
+    "Month": 9,
+    "Week": 36
+  },
+  {
+    "State": "Manipur",
+    "Centre": "Imphal",
+    "Commodity": "Rice",
+    "Unit": "Kg.",
+    "Year": 2024,
+    "Month": 9,
+    "Week": 36
+  },
+  {
+    "State": "Manipur",
+    "Centre": "Imphal",
+    "Commodity": "Onion",
+    "Unit": "Kg.",
+    "Year": 2024,
+    "Month": 9,
+    "Week": 36
+  },
+  {
+    "State": "Gujarat",
+    "Centre": "Gandhi Nagar",
+    "Commodity": "Brinjal",
+    "Unit": "Kg.",
+    "Year": 2024,
+    "Month": 9,
+    "Week": 36
+  },
+  {
+    "State": "Gujarat",
+    "Centre": "Gandhi Nagar",
+    "Commodity": "Brinjal",
+    "Unit": "Kg.",
+    "Year": 2024,
+    "Month": 9,
+    "Week": 36
+  },
+  {
+    "State": "Andhra Pradesh",
+    "Centre": "Guntur",
+    "Commodity": "Coffee",
+    "Unit": "Kg.",
+    "Year": 2024,
+    "Month": 9,
+    "Week": 36
+  },
+  {
+    "State": "Andhra Pradesh",
+    "Centre": "Kurnool",
+    "Commodity": "Onion",
+    "Unit": "Kg.",
+    "Year": 2024,
+    "Month": 9,
+    "Week": 36
+  },
+  {
+    "State": "Andhra Pradesh",
+    "Centre": "Kurnool",
+    "Commodity": "Onion",
+    "Unit": "Kg.",
+    "Year": 2024,
+    "Month": 9,
+    "Week": 36
+  },
+  {
+    "State": "Madhya Pradesh",
+    "Centre": "Bhillai",
+    "Commodity": "Tomato",
+    "Unit": "Kg.",
+    "Year": 2024,
+    "Month": 9,
+    "Week": 38
+  },
+  {
+    "State": "Maharashtra",
+    "Centre": "Mumbai",
+    "Commodity": "Potato",
+    "Unit": "Kg.",
+    "Year": 2024,
+    "Month": 9,
+    "Week": 36
+  },
+  {
+    "State": "Arunachal Pradesh",
+    "Centre": "Itanagar",
+    "Commodity": "Rice",
+    "Unit": "Kg.",
+    "Year": 2024,
+    "Month": 9,
+    "Week": 36
+  },
+  {
+    "State": "Meghalaya",
+    "Centre": "Shillong",
+    "Commodity": "Salt",
+    "Unit": "Kg.",
+    "Year": 2024,
+    "Month": 9,
+    "Week": 36
+  },
+  {
+    "State": "Jammu Kashmir",
+    "Centre": "Shrinagar",
+    "Commodity": "Rice",
+    "Unit": "Kg.",
+    "Year": 2024,
+    "Month": 9,
+    "Week": 36
+  },
+  {
+    "State": "Andhra Pradesh",
+    "Centre": "Chittoor",
+    "Commodity": "Rice",
+    "Unit": "Kg.",
+    "Year": 2024,
+    "Month": 10,
+    "Week": 40
+  },
+  {
+    "State": "Andhra Pradesh",
+    "Centre": "Chittoor",
+    "Commodity": "Rice",
+    "Unit": "Kg.",
+    "Year": 2024,
+    "Month": 12,
+    "Week": 49
+  },
+  {
+    "State": "Bihar",
+    "Centre": "Patna",
+    "Commodity": "Rice",
+    "Unit": "Kg.",
+    "Year": 2024,
+    "Month": 12,
+    "Week": 51
+  },
+  {
+    "State": "Assam",
+    "Centre": "Silchar",
+    "Commodity": "Salt",
+    "Unit": "Kg.",
+    "Year": 2024,
+    "Month": 9,
+    "Week": 39
+  },
+  {
+    "State": "Karnataka",
+    "Centre": "Tumkur",
+    "Commodity": "Tea",
+    "Unit": "Kg.",
+    "Year": 2025,
+    "Month": 5,
+    "Week": 20
+  },
+  {
+    "State": "Karnataka",
+    "Centre": "Tumkur",
+    "Commodity": "Tea",
+    "Unit": "Kg.",
+    "Year": 2025,
+    "Month": 5,
+    "Week": 20
+  },
+  {
+    "State": "Assam",
+    "Centre": "Silchar",
+    "Commodity": "Potato",
+    "Unit": "Kg.",
+    "Year": 2026,
+    "Month": 2,
+    "Week": 8
+  },
+  {
+    "State": "Manipur",
+    "Centre": "Imphal",
+    "Commodity": "Gram",
+    "Unit": "Kg.",
+    "Year": 2025,
+    "Month": 2,
+    "Week": 8
+  },
+  {
+    "State": "Himachal Pradesh",
+    "Centre": "Shimla",
+    "Commodity": "Tea",
+    "Unit": "Kg.",
+    "Year": 2025,
+    "Month": 4,
+    "Week": 14
+  },
+  {
+    "State": "Uttar Pradesh",
+    "Centre": "Gorakhpur",
+    "Commodity": "Sugar",
+    "Unit": "Kg.",
+    "Year": 2025,
+    "Month": 8,
+    "Week": 35
+  },
+  {
+    "State": "Madhya Pradesh",
+    "Centre": "Bhillai",
+    "Commodity": "Potato",
+    "Unit": "Kg.",
+    "Year": 2025,
+    "Month": 3,
+    "Week": 12
+  },
+  {
+    "State": "Madhya Pradesh",
+    "Centre": "Bhillai",
+    "Commodity": "Potato",
+    "Unit": "Kg.",
+    "Year": 2025,
+    "Month": 3,
+    "Week": 12
+  },
+  {
+    "State": "Madhya Pradesh",
+    "Centre": "Bhillai",
+    "Commodity": "Potato",
+    "Unit": "Kg.",
+    "Year": 2025,
+    "Month": 3,
+    "Week": 12
+  }
+]

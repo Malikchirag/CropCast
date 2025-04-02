@@ -1,0 +1,14 @@
+{
+  "input": {
+    "State": "Assam",
+    "Centre": "Silchar",
+    "Commodity": "Salt",
+    "Unit": "Kg.",
+    "Year": 2024,
+    "Month": 9,
+    "Week": 39
+  },
+  "prediction": [
+    27.73176366759211
+  ]
+}

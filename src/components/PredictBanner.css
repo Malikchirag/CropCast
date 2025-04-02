@@ -1,0 +1,15 @@
+#predict-div{
+    margin: 150px 300px 0 150px;
+    color: white;
+}
+
+.predict-title{
+    font-size: 3em;
+    font-weight: 600;
+    margin: 0 0 20px 0;
+}
+
+.predict-description{
+    font-size: 1em;
+    margin: 15px 0 0 0;
+}
